@@ -1,0 +1,4 @@
+1 - Itau
+2 - Bradesco
+3 - Caixa
+4 - Banco do Brasil
